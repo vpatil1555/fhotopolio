@@ -1,0 +1,26 @@
+$cd C:    #change directory
+
+$cd 'file_name'
+
+$git init    #initializes .git in the dir/folder
+
+$git add filename.txt   
+
+$git pull --rebase origin master   #pull the github repo 
+
+$git commit -m "first commit"      #commit with a message/info
+
+$git push -u origin master         #push the code under 
+
+
+
+
+
+
+
+
+
+
+
+PWD - path way directory
+
